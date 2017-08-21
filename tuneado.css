@@ -48,6 +48,6 @@ p{
 }
 .bolsa{
     margin-top: 900px;
-    display: inline-block;
+    display: inline-flex;
     margin: 0px auto;
 }
